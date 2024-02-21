@@ -1,4 +1,9 @@
+@font-face {
+    font-family: 'Letra';
+    src: url(/build/Poppins/Poppins-BlackItalic.ttf);
+}
 *{
+    font-family: 'Letra';
     box-sizing: border-box;
 }
 html{
